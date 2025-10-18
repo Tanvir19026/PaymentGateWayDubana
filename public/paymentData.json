@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Zelle (Scan to Pay)",
+    "logo": "/src/assets/Images/zelle.png",
+     "cost": 3
+  },
+  {
+    "name": "Square | Credit/Debit Card Checkout",
+    "logo": "/src/assets/Images/Square.png",
+     "cost":1.25
+  },
+  {
+    "name": "Stripe | Credit/Debit Card Checkout",
+    "logo": "/src/assets/Images/stripe.png",
+     "cost":1.55
+  },
+  {
+    "name": "Venmo (Scan to Pay)",
+    "logo": "/src/assets/Images/venmo.png",
+     "cost":1.99
+  },
+  {
+    "name": "Paypal | Credit/Debit Card Checkout",
+    "logo": "/src/assets/Images/paypal.png",
+     "cost":3
+  },
+  {
+    "name": "Cash",
+    "logo": "/src/assets/Images/cash.png",
+     "cost":1.24
+  },
+  {
+    "name": "Wire Transfer",
+    "logo": "/src/assets/Images/wiretransfer.png",
+    "cost":1
+  }
+]

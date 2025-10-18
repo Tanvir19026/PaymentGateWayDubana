@@ -1,0 +1,25 @@
+[
+  {
+    "title": "General Member",
+    "outerBorder": false,
+    "options": [
+      { "title": "Membership Fee", "tag": null, "price": 0.0 }
+    ]
+  },
+  {
+    "title": "Yearly Member",
+    "outerBorder": true,
+    "options": [
+      { "title": "Membership Fee", "tag": "Yearly", "price": 500.0 },
+      { "title": "Membership Fee", "tag": "Upfront", "price": 120.0 }
+    ]
+  },
+  {
+    "title": "Life Member",
+    "outerBorder": true,
+    "options": [
+      { "title": "Membership Fee", "tag": "Upfront", "price": 5000.0 },
+      { "title": "Membership Fee", "tag": "Yearly", "price": 5000.0 }
+    ]
+  }
+]
